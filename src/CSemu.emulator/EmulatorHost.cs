@@ -9,7 +9,7 @@ using Aeon.Emulator.DebugSupport;
 using Aeon.Emulator.Dos.Programs;
 using Aeon.Emulator.RuntimeExceptions;
 
-namespace Aeon.Emulator
+namespace CSemu.Emulator
 {
     /// <summary>
     /// Hosts a <see cref="Aeon.Emulator.VirtualMachine"/> instance and provides additional services.
